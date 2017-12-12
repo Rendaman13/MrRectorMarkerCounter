@@ -3,6 +3,7 @@
 
 ; NOT MY FILE!!!!!! I am simply using this to make hardware registers less of a pain
 
+; I found this from https://github.com/pret/pokered
 GBC EQU $11
 
 ; MBC1
